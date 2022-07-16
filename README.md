@@ -7,8 +7,8 @@
 - Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/Shreyansht310/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/Shreyansht03)
+- LeetCode: [Shreyansh Tripathi](https://leetcode.com/Shreyansht310/)
+- HackerRank: [Shreyansh Tripathi](https://www.hackerrank.com/Shreyansht03)
 
 ## Placement Module
 1. [DS I](https://github.com/Shreyansh-Tripathi/Pre-Placement-Module-2023/tree/main/DS%20I)
